@@ -7,5 +7,4 @@ public class Test {
 		System.out.println("Suraj Bhalekar");
 		System.out.println("Akshay");
 	}
-
 }
